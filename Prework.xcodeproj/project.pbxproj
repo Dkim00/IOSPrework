@@ -51,6 +51,7 @@
 		8421683528B6D759001D3766 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		8421683728B6D759001D3766 /* PreworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8421684828B6E5A6001D3766 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		8421684A28B6F692001D3766 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		8421680828B6D758001D3766 = {
 			isa = PBXGroup;
 			children = (
+				8421684A28B6F692001D3766 /* README.md */,
 				8421684828B6E5A6001D3766 /* SettingsViewController.swift */,
 				8421681328B6D758001D3766 /* Prework */,
 				8421682A28B6D759001D3766 /* PreworkTests */,
