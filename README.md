@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/Users/admin/Desktop/Prework/Simulator Screen Recording - iPhone 11 - 2022-08-24 at 17.22.40.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='Simulator Screen Recording - iPhone 11 - 2022-08-24 at 17.22.40.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
